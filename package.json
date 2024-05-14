@@ -1,6 +1,6 @@
 {
   "name": "@giru/nestjs-redis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Модуль `redis` для `nestjs`",
   "repository": {
     "url": "git+https://github.com/nesix/nestjs-redis.git"
